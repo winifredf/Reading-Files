@@ -5,3 +5,4 @@ Open the employees.txt in append mode only.
 Open the employees.txt file in read and write mode.
 Go back to read mode.
 Close employees.txt file
+Check to see if file is readable.
