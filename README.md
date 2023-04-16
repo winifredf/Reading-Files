@@ -9,3 +9,5 @@ Check to see if file is readable.
 Create function to read first line of employees.
 Create functions to print 2 lines of employees.
 Create a number of functions to print all lines of employees.
+Create 1 function to print all info in employee_file.
+Access David - Painter element in array or list of employees within the array.
