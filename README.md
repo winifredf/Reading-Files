@@ -6,3 +6,4 @@ Open the employees.txt file in read and write mode.
 Go back to read mode.
 Close employees.txt file
 Check to see if file is readable.
+Create function to read first line of employees.
