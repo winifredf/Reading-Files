@@ -6,4 +6,5 @@ print(employee_file.readline())
 print(employee_file.readline())
 print(employee_file.readline())
 
+employee_file.close()
 
