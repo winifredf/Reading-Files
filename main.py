@@ -1,1 +1,1 @@
-open("employees.txt", "r")
+open("employees.txt", "w")
