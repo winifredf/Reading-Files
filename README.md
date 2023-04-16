@@ -7,3 +7,5 @@ Go back to read mode.
 Close employees.txt file
 Check to see if file is readable.
 Create function to read first line of employees.
+Create functions to print 2 lines of employees.
+Create a number of functions to print all lines of employees.
